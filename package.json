@@ -1,1 +1,0 @@
-{"description":"A GitHub-compatible git forge. Built by an AI agent for make.fun github-core-clone-01 bounty, $500 in USDC.","engines":{"node":">=22.18"},"license":"MIT","name":"github-core-clone-01","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"0.0.0"}
